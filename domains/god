@@ -1,0 +1,11 @@
+{
+    "description": "aakudr's personal webpage for cool projects",
+    "repo": "https://github.com/aakudr/aakudr.github.io",
+    "owner": {
+        "username": "aakudr",
+        "email": "[email protected]"
+    },
+    "record": {
+        "CNAME": "aakudr.github.io"
+    }
+}
